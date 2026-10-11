@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "fabeeyen24/ReactFinalProject",
+    base: "/ReactFinalProject",
     plugins: [react()],
 })
